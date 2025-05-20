@@ -4,6 +4,8 @@
 
 The Cyber Security Evaluation Tool (CSET-TSA) is a free, standalone desktop application developed by the U.S. Department of Homeland Security's Transportation Security Administration (TSA). It provides a structured, step-by-step approach for asset owners and operators to evaluate the security posture of their industrial control systems (ICS) and information technology (IT) networks. CSET-TSA helps organizations assess their cybersecurity practices against recognized government and industry standards.
 
+This release contains the AI, Incident Response, and CPG modules.
+
 ## Key Features and Benefits:
 
 - **Systematic Evaluation:** CSET-TSA guides users through a structured process, ensuring a consistent and repeatable assessment.
